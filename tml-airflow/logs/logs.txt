@@ -10865,3 +10865,4 @@ hint: 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 [INFO 2024-12-03_21:04:31] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-pradipprivategpt-4b2d.py
 [INFO 2024-12-03_21:04:40] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-pradipprivategpt-4b2d.py
+[INFO 2024-12-03_21:04:50] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-pradipprivategpt-4b2d.py
