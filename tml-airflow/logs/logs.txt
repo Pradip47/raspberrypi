@@ -10817,3 +10817,27 @@ Already up to date.
 [INFO 2024-12-03_20:10:19] TML Solution Studio: git add . Status: 
 [INFO 2024-12-03_20:10:19] TML Solution Studio: git commit -a Status for project pradip-4b2d: fatal: paths 'project ...' with -a does not make sense
 [INFO 2024-12-03_20:10:20] TML Solution Studio: git push Status for project pradip-4b2d: Everything up-to-date
+[INFO 2024-12-03_20:10:29] TML Solution Studio: TML Project Creation: Creating new TML project: /raspberrypi/tml-airflow/dags/tml-solutions/thisisthefirstprojectofpradip.-4b2d
+[INFO 2024-12-03_20:10:30] TML Solution Studio: git pull --rebase --autostash origin main Status: From https://github.com/Pradip47/raspberrypi
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+[INFO 2024-12-03_20:11:09] TML Solution Studio: Starting Git commit process for project: thisisthefirstprojectofpradip.-4b2d
+[INFO 2024-12-03_20:11:09] TML Solution Studio: git commit -a Status for project thisisthefirstprojectofpradip.-4b2d: fatal: paths 'project ...' with -a does not make sense
+[INFO 2024-12-03_20:11:11] TML Solution Studio: git push origin main Status: To https://github.com/Pradip47/raspberrypi.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/Pradip47/raspberrypi.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[INFO 2024-12-03_20:11:12] TML Solution Studio: git add . Status: 
+[INFO 2024-12-03_20:11:12] TML Solution Studio: git commit -a Status for project thisisthefirstprojectofpradip.-4b2d: fatal: paths 'project ...' with -a does not make sense
+[INFO 2024-12-03_20:11:14] TML Solution Studio: git push Status for project thisisthefirstprojectofpradip.-4b2d: To https://github.com/Pradip47/raspberrypi.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/Pradip47/raspberrypi.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
