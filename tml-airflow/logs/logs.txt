@@ -10841,3 +10841,25 @@ hint: not have locally. This is usually caused by another repository pushing
 hint: to the same ref. You may want to first integrate the remote changes
 hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[INFO 2024-12-03_20:11:42] TML Solution Studio: TML Project Creation: Creating new TML project: /raspberrypi/tml-airflow/dags/tml-solutions/pradipprivategpt-4b2d
+[INFO 2024-12-03_20:11:43] TML Solution Studio: git pull --rebase --autostash origin main Status: From https://github.com/Pradip47/raspberrypi
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+[INFO 2024-12-03_20:12:23] TML Solution Studio: Starting Git commit process for project: pradipprivategpt-4b2d
+[INFO 2024-12-03_20:12:23] TML Solution Studio: git commit -a Status for project pradipprivategpt-4b2d: fatal: paths 'project ...' with -a does not make sense
+[INFO 2024-12-03_20:12:24] TML Solution Studio: git push origin main Status: To https://github.com/Pradip47/raspberrypi.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/Pradip47/raspberrypi.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[INFO 2024-12-03_20:12:24] TML Solution Studio: git add . Status: 
+[INFO 2024-12-03_20:12:24] TML Solution Studio: git commit -a Status for project pradipprivategpt-4b2d: fatal: paths 'project ...' with -a does not make sense
+[INFO 2024-12-03_20:12:25] TML Solution Studio: git push Status for project pradipprivategpt-4b2d: To https://github.com/Pradip47/raspberrypi.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/Pradip47/raspberrypi.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
