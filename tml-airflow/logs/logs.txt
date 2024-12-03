@@ -10871,3 +10871,4 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 [INFO 2024-12-03_21:05:46] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-pradipprivategpt-4b2d.py
 [INFO 2024-12-03_21:05:53] Visualization DAG in tml_system_step_7_kafka_visualization_dag-pradipprivategpt-4b2d.py
 [INFO 2024-12-03_21:07:50] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-pradipprivategpt-4b2d.py
+[INFO 2024-12-03_21:07:58] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-pradipprivategpt-4b2d.py
