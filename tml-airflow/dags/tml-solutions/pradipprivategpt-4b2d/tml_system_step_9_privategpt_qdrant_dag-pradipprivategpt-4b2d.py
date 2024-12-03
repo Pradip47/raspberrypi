@@ -36,14 +36,7 @@ default_args = {
  'preprocesstype' : '', # Leave as is 
  'partition' : '-1', # Leave as is 
  'prompt': 'Do any of the values of the inbound or outbound packets look abnormal?', # Enter your prompt here
- 'context' : 'This is IoT data from devices. The data are\
-anomaly probabilities for each IoT device. If voltage or current\
-
-probabilities are low, it is likely the device is not working properly.’\
-
-New Value: ‘context’ : ‘These data are anomaly probabilities of suspicious data traffic.\
-
-A high probability of over 0.80 is likely suspicious.', # enter key you want to gather data from to analyse with PrivateGpt i.e. Identifier or hyperprediction
+ 'context' : 'These data are anomaly probabilities of suspicious data traffic.A high probability of over 0.80 is likely suspicious.', # enter key you want to gather data from to analyse with PrivateGpt i.e. Identifier or hyperprediction
  'keyattribute' : 'outboundpackets,inboundpackets', # change as needed  
  'keyprocesstype' : 'anomprob',  # change as needed
  'hyperbatch' : '0', # Set to 1 if you want to batch all of the hyperpredictions and sent to chatgpt, set to 0, if you want to send it one by one   
